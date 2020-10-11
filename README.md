@@ -1,2 +1,2 @@
 # Lp_trigonometry
-This small repo is for representation of different metric spaces trigonometry.
+This small repo is to present different metric spaces trigonometry.
